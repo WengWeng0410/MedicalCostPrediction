@@ -97,4 +97,15 @@ The input features identified for the model training are age, bmi and smoker. Ch
 **train_test_split** from **sklearn.model_selection** is used to separat the dataset into training and testing set of data. In this project, 80% of the dataset is used as training set and the remaining 20% is used as testing set. <br>
 The prediction model selected are **LinearRegression** and **RandomForestRegressor**
 
+## Performane Evaluation
 
+Coefficients [age,bmi and encoded_smoker] and Intercept produced by the model. <br>
+
+Coefficients: [  259.83736925   322.61300185 23827.39344353]<br>
+Intercept: -11691.638457668056 <br>
+
+From the coefficient, it can be seen that encoded_smoker is with the highest weight in determining the medical cost (charges) of a patient. <br> 
+
+Based on the result, the performance of <br> 
+Linear Regression is with the score of 74.51%. <br>
+Random Forest Regressor is with the score of 97.23%.
