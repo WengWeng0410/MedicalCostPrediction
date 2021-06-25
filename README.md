@@ -13,7 +13,47 @@ This is the data set on the medical cost treatment of different patients. In thi
 
 The dataset used in this project can be downloaded from Kaggle (link as shown above). It is about medical cost expenses. This dataset consist of 1338 rows and 7 features. The information of the dataset includes: <br>
 * Demograhpic info - age, gender, bmi
-* Number of children
+* Number of children for a patient
 * Smoker or Non smoker
 * Origin of the patient
 * Charges (medical cost expenses)
+
+## EDA
+
+To understand the patterns and values of the data by using different types of visualizations. <br>
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
+
+#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+![](/images/Unit_Sold_vs_Ads.png)
