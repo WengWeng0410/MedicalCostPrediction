@@ -22,8 +22,10 @@ The dataset used in this project can be downloaded from Kaggle (link as shown ab
 
 To understand the patterns and values of the data by using different types of visualizations. <br>
 
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
+#### Heatmap
+![](/images/1.ICP_heatmap.png)
+
+based on the heatmap, it can be seen that smoker, age, bmi and children features are with positive association with charges feature, i.e, the higher the values for smoker, age, bmi and children features, the higher the charges value. <br> We will explore more on the smoker, age and bmi.
 
 #### Sales Based on Budgets for Google, Facebook and Instagram Ads 
 ![](/images/Unit_Sold_vs_Ads.png)
