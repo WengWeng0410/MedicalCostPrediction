@@ -82,11 +82,19 @@ Also, it is obvious that smokers with Obese are needed to spend more on medical 
 
 It is found that region does not show any significant insight. This is also relfected the finding from the heatmap where there is no strong association between regions and charges.
 
-#### 
-![](/images/Unit_Sold_vs_Ads.png)
+#### Charges Distribution for Smoker and Non Smoker vs Number of Children
+![](/images/10.ICP_child_vs_charges.png)
 
-#### 
-![](/images/Unit_Sold_vs_Ads.png)
+#### Charges Distribution for Smoker and Non Smoker vs Region
+![](/images/11.ICP_region_vs_charges.png)
 
-#### 
-![](/images/Unit_Sold_vs_Ads.png)
+#### Charges Distribution for Smoker and Non Smoker vs Sex
+![](/images/12.ICP_sex_vs_charges.png)
+
+## Model Building
+
+The input features identified for the model training are age, bmi and smoker. Charges will be the output (target).
+**train_test_split** from **sklearn.model_selection** is used to separat the dataset into training and testing set of data. In this project, 80% of the dataset is used as training set and the remaining 20% is used as testing set. <br>
+The prediction model selected are **LinearRegression** and **RandomForestRegressor**
+
+
