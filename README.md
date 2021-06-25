@@ -25,37 +25,68 @@ To understand the patterns and values of the data by using different types of vi
 #### Heatmap
 ![](/images/1.ICP_heatmap.png)
 
-based on the heatmap, it can be seen that smoker, age, bmi and children features are with positive association with charges feature, i.e, the higher the values for smoker, age, bmi and children features, the higher the charges value. <br> We will explore more on the smoker, age and bmi.
+Based on the heatmap, it can be seen that smoker, age, bmi and children features are with positive association with charges feature, i.e, the higher the values for smoker, age, bmi and children features, the higher the charges value. <br> We will explore more on the smoker, age and bmi.
 
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+#### Age vs Charges
+![](/images/2.ICP_age_vs_charges.png)
+
+Finding shows that increase in the age will also increase the medical charges for both smokers and non smokers. 
+
+#### Patient Distribution
+![](/images/3.ICP_patient_count_region.png)
+
+Southeas region is with the highest number of Obese patient and medical cost is also the highest among the 4 regions. 
+
+#### Comparison on Smoker and Non Smoker Based on Age Group
+![](/images/4.ICP_patient_age_cost.png)
+
+Medical cost for Non Smoker <br>
+Young Adult (431) - 4738.48 <br>
+Middle Age (455) - 9765.08 <br>
+Senior (176) - 14087.58 <br>
+
+Medical cost for Smoker <br>
+Young Adult (116) - 28095.82 <br>
+Middle Age (118) - 33407.87 <br>
+Senior (40) - 39513.00 <br>
+
+In general, medical cost of smokers are higher for Young Adult, Middle Age and Senior groups as compared with non smokers. It should be noted that the number of smokers is far lesser than non smokers for each of the age group.
+
+#### Comparison on Smoker and Non Smoker Based on BMI Category
+![](/images/5.ICP_patient_bmi_cost.png)
+
+Medical cost for Non Smoker <br>
+Overweight (301) - 8320.95 <br>
+Obese (574) - 8832.88 <br>
+Normal Weight (172) - 7599.64 <br>
+Uder Weight (15) - 5532.99 <br>
+
+Medical cost for Smoker <br>
+Overweight (72) - 22379.03 <br>
+Obese (147) - 41355.87 <br>
+Normal Weight (50) - 19942.22 <br>
+Uder Weight (5) - 18809.82 <br>
+
+In general, medical cost (on average) of smokers are higher for Obese is the highest, followed by Overweight, Normal Weight and Under Weight. It should be noted that the number of smokers is far lesser than non smokers for each of the BMI category.
+
+#### Medical Charges vs BMI Category, with Different Age Groups
+![](/images/6.ICP_patient_bmiCat_cost.png)
+![](/images/7.ICP_patient_ageCat_cost.png)
+
+The finding shows that most of the medical costs for smokers are higher than non smoker, given the same bmi. <br> Also, smokers with Obese are required to spend more on medical cost as compared to smokers with Overweight, Normal Weight and Under Weight. <br>
+Also, it is obvious that smokers with Obese are needed to spend more on medical cost as compared to Overweight, Normal weight and under weight smokers, regardless to Young Adult, Middle Age and Senior age groups.
+
+#### Age, BMI vs Charges with Different Regions
+![](/images/8.ICP_age_vs_charges.png)
+![](/images/9.ICP_bmi_vs_charges.png)
+
+It is found that region does not show any significant insight. This is also relfected the finding from the heatmap where there is no strong association between regions and charges.
+
+#### 
 ![](/images/Unit_Sold_vs_Ads.png)
 
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+#### 
 ![](/images/Unit_Sold_vs_Ads.png)
 
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
-![](/images/Unit_Sold_vs_Ads.png)
-
-#### Sales Based on Budgets for Google, Facebook and Instagram Ads 
+#### 
 ![](/images/Unit_Sold_vs_Ads.png)
