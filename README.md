@@ -107,5 +107,5 @@ Intercept: -11691.638457668056 <br>
 From the coefficient, it can be seen that encoded_smoker is with the highest weight in determining the medical cost (charges) of a patient. <br> 
 
 Based on the result, the performance of <br> 
-Linear Regression is with the score of 74.51%. <br>
-Random Forest Regressor is with the score of 97.23%.
+Linear Regression is with the R_ Square score of **74.51%**. <br>
+Random Forest Regressor is with the R_ Square score of **96.96%**.
