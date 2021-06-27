@@ -10,7 +10,7 @@ This is the data set on the medical cost treatment of different patients. In thi
 **Python Version:** 3.7 <br>
 **Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
 **IDE:** Google Colab <br> 
-**Dataset:** https://www.kaggle.com/mirichoi0218/insurance
+**Dataset:** https://www.kaggle.com/mirichoi0218/insurance <br>
 **Python Script:** [Notebook](https://colab.research.google.com/drive/1Bmzo_j5LoD80xHf-KGCg8tC67PNw1C7a?usp=sharing)
 
 ## Data Gathering
