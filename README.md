@@ -11,7 +11,7 @@ This is the data set on the medical cost treatment of different patients. In thi
 **Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
 **IDE:** Google Colab <br> 
 **Dataset:** https://www.kaggle.com/mirichoi0218/insurance <br>
-**Python Script:** [Notebook](https://colab.research.google.com/drive/1Bmzo_j5LoD80xHf-KGCg8tC67PNw1C7a?usp=sharing)
+**Python Script:** [Notebook](https://drive.google.com/file/d/13JIPUXe83yqDBgyqjLmkp5MHp7AA2ePv/view?usp=sharing)
 
 ## Data Gathering
 
@@ -105,11 +105,11 @@ The prediction model selected are **LinearRegression** and **RandomForestRegress
 
 Coefficients [age,bmi and encoded_smoker] and Intercept produced by the model. <br>
 
-Coefficients: [  259.83736925   322.61300185 23827.39344353]<br>
-Intercept: -11691.638457668056 <br>
+Coefficients: [  246.1250236    317.70485545 23868.14045873]<br>
+Intercept: -11148.99040100681 <br>
 
 From the coefficient, it can be seen that encoded_smoker is with the highest weight in determining the medical cost (charges) of a patient. <br> 
 
 Based on the result, the performance of <br> 
-Linear Regression is with the R_ Square score of **74.51%**. <br>
-Random Forest Regressor is with the R_ Square score of **96.96%**.
+Linear Regression is with the R_ Square score of **74.18%**. <br>
+Random Forest Regressor is with the R_ Square score of **81.64%**.
